@@ -1,0 +1,21 @@
+DisplayName: Wheel Of Misfortune
+PackageName: Healthycle.org/yourstoryonfilm/wheelofmisfortune
+Publisher: YOUR STORY ON FILM LLC
+Producer: YOUR STORY ON FILM LLC 
+Author: YOUR STORY ON FILM LLC
+Credits:
+Creative Director - Chris Benninger
+Art/Animation - Alisa Hassett
+Programmer/Designer - Alexander Sierputowski
+Writers - David Gretick, Chris Benninger, Rachael Sommer 
+HomeURL: https://www.healthycle.org/no2spice
+GitLoc: https://rawgit.com/yourstoryonfilm/k2spice/master/App/ClickerGame.html
+Maintainer e-mail: info@yourstoryonfilm.com
+Homepage: http://www.WheelOfMis.com
+GameEngine: GameMaker v1.4.1767
+Version: v1.000.001
+Company: YOUR STORY ON FILM LLC
+Product: N/A   
+Copyright: The Healthy Cleveland Initiative, 2017 - Present
+Short Description: The K-2 Spice Wheel of Misfortune 
+Long Description: An educational game outlining the dangers of using K-2 Spice.
